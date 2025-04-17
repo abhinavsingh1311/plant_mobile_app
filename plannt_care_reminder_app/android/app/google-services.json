@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1052148000088",
+    "project_id": "dmit2504-asingh",
+    "storage_bucket": "dmit2504-asingh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052148000088:android:c61eb01f06aa145062712d",
+        "android_client_info": {
+          "package_name": "com.abhinav.plantcarereminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAxb4rqOJI6JsvQ1tbke9wgqjE3pGLYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052148000088:android:aca1dba5bcb937ac62712d",
+        "android_client_info": {
+          "package_name": "com.example.in_class_firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAxb4rqOJI6JsvQ1tbke9wgqjE3pGLYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

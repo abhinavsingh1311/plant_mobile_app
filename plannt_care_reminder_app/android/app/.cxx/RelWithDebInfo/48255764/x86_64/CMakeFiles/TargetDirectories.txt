@@ -1,0 +1,2 @@
+C:/Users/abhin/Plant_Care_App/plant_care_app/plannt_care_reminder_app/android/app/.cxx/RelWithDebInfo/48255764/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/abhin/Plant_Care_App/plant_care_app/plannt_care_reminder_app/android/app/.cxx/RelWithDebInfo/48255764/x86_64/CMakeFiles/rebuild_cache.dir
