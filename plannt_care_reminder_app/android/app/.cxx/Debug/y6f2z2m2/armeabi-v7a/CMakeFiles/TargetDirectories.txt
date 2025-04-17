@@ -1,0 +1,2 @@
+C:/plant_app/plant_mobile_app/plannt_care_reminder_app/android/app/.cxx/Debug/y6f2z2m2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/plant_app/plant_mobile_app/plannt_care_reminder_app/android/app/.cxx/Debug/y6f2z2m2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
